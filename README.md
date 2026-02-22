@@ -54,7 +54,7 @@
 </div>
 
 <footer>
-    <p>Contact me: 
+<p>Contact me: 
       jadetteh@yahoo.com
       (868)794-7712
     </p>
